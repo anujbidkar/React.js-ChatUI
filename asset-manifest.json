@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React.js-ChatUI/static/css/main.0644bf2f.chunk.css",
+    "main.js": "/React.js-ChatUI/static/js/main.14e73e5b.chunk.js",
+    "main.js.map": "/React.js-ChatUI/static/js/main.14e73e5b.chunk.js.map",
+    "runtime-main.js": "/React.js-ChatUI/static/js/runtime-main.4bb0590e.js",
+    "runtime-main.js.map": "/React.js-ChatUI/static/js/runtime-main.4bb0590e.js.map",
+    "static/js/2.38dac553.chunk.js": "/React.js-ChatUI/static/js/2.38dac553.chunk.js",
+    "static/js/2.38dac553.chunk.js.map": "/React.js-ChatUI/static/js/2.38dac553.chunk.js.map",
+    "static/js/3.47d9ee5d.chunk.js": "/React.js-ChatUI/static/js/3.47d9ee5d.chunk.js",
+    "static/js/3.47d9ee5d.chunk.js.map": "/React.js-ChatUI/static/js/3.47d9ee5d.chunk.js.map",
+    "index.html": "/React.js-ChatUI/index.html",
+    "static/css/main.0644bf2f.chunk.css.map": "/React.js-ChatUI/static/css/main.0644bf2f.chunk.css.map",
+    "static/js/2.38dac553.chunk.js.LICENSE.txt": "/React.js-ChatUI/static/js/2.38dac553.chunk.js.LICENSE.txt",
+    "static/media/anuj.6a9c43f9.jpg": "/React.js-ChatUI/static/media/anuj.6a9c43f9.jpg",
+    "static/media/anuj2.d2484345.jpeg": "/React.js-ChatUI/static/media/anuj2.d2484345.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bb0590e.js",
+    "static/js/2.38dac553.chunk.js",
+    "static/css/main.0644bf2f.chunk.css",
+    "static/js/main.14e73e5b.chunk.js"
+  ]
+}
